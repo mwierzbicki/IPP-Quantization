@@ -1,0 +1,1 @@
+This program saves strings (histories) comprised of {0..3} characters and allows to merge those strings into equivalency relations and set an integer value (energy) to the relations. Full problem statement in Polish provided. Compile using "make", clean up using "make clean".
